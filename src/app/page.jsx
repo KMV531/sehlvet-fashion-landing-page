@@ -1,5 +1,7 @@
 import Header from "@/components/Header";
-import HeroSection from "@/components/Hero";
+import HeroSection from "@/sections/Hero";
+import SummerCollection from "@/sections/Summer";
+import TrendingSection from "@/sections/Trending";
 import React from "react";
 
 const HomePage = () => {
@@ -7,6 +9,8 @@ const HomePage = () => {
     <div>
       <Header />
       <HeroSection />
+      <TrendingSection />
+      <SummerCollection />
     </div>
   );
 };
