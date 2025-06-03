@@ -47,7 +47,7 @@ export const metadata = {
     siteName: "Sehlvet",
     images: [
       {
-        url: `${process.env.NEXT_PUBLIC_URL}/assets/images/hero_image.png`, // Replace with actual OG image
+        url: `${process.env.NEXT_PUBLIC_URL}/assets/images/hero_image_2.png`, // Replace with actual OG image
         width: 1200,
         height: 630,
         alt: "Sehlvet – Elegant Essentials for Women",
@@ -60,12 +60,12 @@ export const metadata = {
     title: "Sehlvet – Elegant Essentials for the Modern Woman",
     description:
       "Shop Sehlvet's exclusive line of refined essentials—from fashion to beauty. Where elegance meets everyday luxury.",
-    images: [`${process.env.NEXT_PUBLIC_URL}/assets/images/hero_image.png`],
+    images: [`${process.env.NEXT_PUBLIC_URL}/assets/images/hero_image_2.png`],
   },
   icons: {
-    icon: "/assets/images/hero_image.png",
-    shortcut: "/assets/images/hero_image.png",
-    apple: "/assets/images/hero_image.png",
+    icon: "/assets/images/hero_image_2.png",
+    shortcut: "/assets/images/hero_image_2.png",
+    apple: "/assets/images/hero_image_2.png",
   },
 };
 
