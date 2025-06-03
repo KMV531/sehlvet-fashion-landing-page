@@ -4,7 +4,7 @@ import HeroSection from "@/sections/Hero";
 import SummerCollection from "@/sections/Summer";
 import TestimonialSection from "@/sections/Testimonials";
 import TrendingSection from "@/sections/Trending";
-import WinterCollection from "@/sections/WInter";
+import WinterCollection from "@/sections/Winter";
 import React from "react";
 
 const HomePage = () => {
